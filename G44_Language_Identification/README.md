@@ -2,7 +2,7 @@
 
 **AITech Hackathon 2025 (IIT Mandi & HCLTech)**
 
-**Team:** [Your Team Name/Members]
+**Team:** [Group 44/Rishiteja, Varshith, Jayasheela, Geetamsh, Madhu]
 
 ## 1. Project Overview
 
